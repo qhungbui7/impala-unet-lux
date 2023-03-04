@@ -1,3 +1,8 @@
+focux on 
+
+lux_ai/ <br>
+main.py <br>
+
 # Kaggle_Lux_AI_2021
 
 This repository contains the code for the Lux AI Season 1 competition, hosted on Kaggle. The full write-up can be found on [Kaggle's forums](https://www.kaggle.com/c/lux-ai-2021/discussion/294993) and is copied below.
